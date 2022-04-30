@@ -17,7 +17,7 @@ namespace _5_CaracteresETextos
             // character
             char primeiraLetra = ' ';
             Console.WriteLine(primeiraLetra);
-
+            //por posição da letra
             primeiraLetra = (char)61;
             Console.WriteLine(primeiraLetra);
 
@@ -34,7 +34,7 @@ namespace _5_CaracteresETextos
             Console.WriteLine(cursosProgramacao);
            
              
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

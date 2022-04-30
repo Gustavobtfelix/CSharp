@@ -40,7 +40,7 @@ namespace _9_Escopo
                 Console.WriteLine("Não pode entrar");
             }
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

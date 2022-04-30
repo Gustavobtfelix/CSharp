@@ -20,7 +20,7 @@ namespace _6_AtribuicoesDeVariaveis
             Console.WriteLine(idade);
             Console.WriteLine(idadeGustavo);
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

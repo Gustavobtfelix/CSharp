@@ -25,7 +25,7 @@ namespace P10_LacoDeRepeticaoWhile
 
             Console.WriteLine(total);
             //espera o usuario interagir para continuar
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

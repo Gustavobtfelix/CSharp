@@ -28,7 +28,7 @@ namespace _3_CriandoVariaveisPontoFlutuante
             Console.WriteLine("5.0 / 3 = " + idade);
 
             Console.WriteLine("A execução acabou. Tecle enter para sair . . . ");
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

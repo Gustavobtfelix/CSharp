@@ -30,7 +30,7 @@ namespace _2_CriandoVariaveis
             Console.WriteLine("Sua idade é " + idade + "!");
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair. . . ");
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

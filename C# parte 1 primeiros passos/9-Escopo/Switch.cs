@@ -51,6 +51,6 @@ class Programa
                 Console.WriteLine("Mês inválido");
                 break;
         }
-        Console.ReadLine();
+        //Console.ReadLine();
     }
 }

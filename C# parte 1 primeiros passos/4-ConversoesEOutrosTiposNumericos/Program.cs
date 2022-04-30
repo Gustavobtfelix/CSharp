@@ -30,7 +30,7 @@ namespace _4_ConversoesEOutrosTiposNumericos
             float altura = 1.80f;
             Console.WriteLine(altura);
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

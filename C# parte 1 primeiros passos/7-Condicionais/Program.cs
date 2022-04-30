@@ -31,7 +31,7 @@ namespace _7_Condicionais
                 }
             }
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
